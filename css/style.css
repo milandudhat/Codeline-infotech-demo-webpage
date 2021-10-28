@@ -98,7 +98,7 @@
                                             }
                                             
                                             .firstsection{
-                                                height: 50vh;
+                                                height: 76vh;
                                                 justify-content: center;
                                                 align-items: center; 
                                                 
@@ -171,7 +171,8 @@
                                                 justify-content: space-evenly;
                                                 max-width: 80%;
                                                 margin: auto;
-                                                padding: 10px 0px;
+                                                padding: 49px 150px;
+                                                padding-top: 100px;
                                                 font-family: 'Ubuntu', sans-serif;
                                             }
                                             
@@ -194,13 +195,14 @@
 
                                             .section img{
                                                 border: 5px solid black;
-                                                border-radius: 30px;
+                                                border-radius: 15px;
                                                 width: 200px;
                                             }
 
                                             .contactus{
                                                 background-color: rgb(224, 223, 221);
                                                 height: 750px;
+                                                padding-top: 35px;
                                             }
 
                                             .center{
